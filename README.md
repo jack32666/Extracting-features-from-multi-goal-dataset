@@ -45,7 +45,7 @@ https://github.com/jack32666/Extracting-features-from-multi-goal-dataset/blob/ma
 
 ## IV. Project proposal presentation video : 
 
-https://drive.google.com/file/d/1AEf6J1BetDuv5eMzkKrzqsH3omult6QE/view?usp=sharing
+https://drive.google.com/file/d/1eN7aSYQCDhUnP5AfRXebV_SXarVhEgOc/view?usp=sharing
 
 ## V. Contact information for Q&A : 
 

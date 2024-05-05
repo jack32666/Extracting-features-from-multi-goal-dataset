@@ -1,4 +1,4 @@
-# Project title : Extracting-features-from-multi-goal-datasets
+# Project title : Generalizing-on-multigoal-dataset
 
 ## I. Project introduction
 
